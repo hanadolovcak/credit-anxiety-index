@@ -48,14 +48,27 @@ Run all cells in the notebook. The script downloads FRED data, interpolates GS10
 GS10 data is monthly and linearly interpolated to daily. Google Trends includes retry logic with exponential backoff to handle rate limiting. Historical backfilled data uses 0 for Google Trends since past values cannot be retrieved.
 
 ## License
+[MIT License](https://github.com/hanadolovcak/credit-crunch-index/blob/main/LICENSE)
 
-MIT License
-
-
-## Disclaimer
-
-Educational purposes only. Not financial advice.
 
 ## Disclaimer
+**Educational purposes only. Not financial advice.**
 
-Educational purposes only. Not financial advice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
