@@ -1,0 +1,6 @@
+*.csv
+GS10_interpolated.csv
+graf.html
+anxiety_backup.csv
+__pycache__/
+.ipynb_checkpoints/
